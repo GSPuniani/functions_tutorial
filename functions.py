@@ -8,8 +8,10 @@ result = area(5, 6)
 print(result)
 
 #Q3
-print(area(12, 89))
-print(area(1390, 4560))
+area(12, 89)
+area(1390, 4560)
+# print(area(12, 89))
+# print(area(1390, 4560))
 
 #Q4
 def subtract(num1, num2):
